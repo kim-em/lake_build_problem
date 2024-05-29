@@ -1,1 +1,1 @@
-def x : Nat := 0
+def x : Nat := []
